@@ -25,3 +25,4 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "awesome-count" #Must be unique in Heroku
           heroku_email: "ali.haidar-97@hotmail.com"
+          usedocker: true
